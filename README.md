@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Eszter 👋🏼
 
-<!--
-**eszter-kiskarpati/eszter-kiskarpati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Software Developer with a Diploma in Full Stack Software Development.  
+I enjoy building and deploying web applications using Python, Django, and JavaScript,  
+with a focus on clean code and real-world functionality.  
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+* Python, Django
+* JavaScript, HTML, CSS
+* Bootstrap
+* Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Projects
+* **Pawgress** - Full-stack Django application
+*  **The Village Tap** - News/Forum-style website with backend logic
+*  **Battleship** - Interactive Python-based game
+
+➡️ View all projects:
+https://github.com/eszter-kiskarpati?tab=repositories
+
+### 👧🏼 About
+* Based in Ireland
+* Open to remote junior roles
+* Background in customer-facing and support roles
